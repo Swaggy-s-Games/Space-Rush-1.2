@@ -1,0 +1,5 @@
+Shop.
+Mute music and sound effect feature.
+Money.
+Bug fixes.
+Other small features.
